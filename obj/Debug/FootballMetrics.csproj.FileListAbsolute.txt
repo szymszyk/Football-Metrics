@@ -1,0 +1,101 @@
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe.config
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.pdb
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csprojResolveAssemblyReference.cache
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\MainWindow.g.cs
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\App.g.cs
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.cache
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.lref
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\MainWindow.baml
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.g.resources
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.Properties.Resources.resources
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csproj.GenerateResource.Cache
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.exe
+c:\users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.pdb
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.baml
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.g.cs
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.baml
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoMecze.g.cs
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoMecze.baml
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.g.cs
+C:\Users\szymc\onedrive\documents\visual studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoRanking.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2015\Projects\Licencjat\FootballMetrics\obj\Debug\oknoRanking.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe.config
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.exe
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.pdb
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.pdb
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\mscorlib.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.xml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\de\mscorlib.resources.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\fr\mscorlib.resources.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\pl\mscorlib.resources.dll
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\normidna.nlp
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\normnfc.nlp
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\normnfd.nlp
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\normnfkc.nlp
+C:\Users\student\Desktop\Licencjat\FootballMetrics\bin\Debug\normnfkd.nlp
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoMecze.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoRanking.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.cache
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.lref
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoMecze.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\oknoRanking.baml
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.g.resources
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.Properties.Resources.resources
+C:\Users\student\Desktop\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csproj.GenerateResource.Cache
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe.config
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.exe
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\FootballMetrics.pdb
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.dll
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.xml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csprojResolveAssemblyReference.cache
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\MainWindow.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoMecze.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoRanking.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\App.g.cs
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.cache
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics_MarkupCompile.lref
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\MainWindow.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoDruzyny.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujDruzyny.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoEdytujMecze.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoMecze.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\oknoRanking.baml
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.g.resources
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.Properties.Resources.resources
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.csproj.GenerateResource.Cache
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.exe
+C:\Users\szymc\OneDrive\Documents\Visual Studio 2017\Projects\Licencjat\FootballMetrics\obj\Debug\FootballMetrics.pdb

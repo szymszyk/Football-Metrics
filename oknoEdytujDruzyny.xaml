@@ -1,0 +1,28 @@
+﻿<Window x:Class="FootballMetrics.oknoEdytujDruzyny"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballMetrics"
+        mc:Ignorable="d"
+        Title="Drużyna" Height="300" Width="350">
+    <Window.Background>
+        <ImageBrush ImageSource="obrazy/tło.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.7*"/>
+            <RowDefinition Height="0.3*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" >
+            <Label Content="Nazwa drużyny:" Height="25" Width="200" Margin="0,25,0,0" />
+            <TextBox x:Name="txtBox_NazwaDruzyny" Height="20" Width="200"  Margin="0,5,0,0"/>
+            <Label Content="Kontynent:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtBox_Kontynent" Height="20" Width="200" Margin="0,5,0,0" />            
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" HorizontalAlignment="Center">
+            <Button Content="Zatwierdź" Height="20" Width="80" Click="btnZatwierdz_Click" Margin="0,0,20,0"/>
+            <Button Content="Anuluj" Height="20" Width="80" Click="btnAnuluj_Click" Margin="20,0,0,0"/>
+        </StackPanel>   
+     </Grid>
+</Window>

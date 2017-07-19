@@ -1,0 +1,47 @@
+﻿<Window x:Class="FootballMetrics.oknoEdytujMecze"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballMetrics"
+        mc:Ignorable="d"
+        Title="Edycja meczu" Height="400" Width="600">
+    <Window.Background>
+        <ImageBrush ImageSource="obrazy/tło.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.4*"/>
+            <ColumnDefinition Width="0.6*"/>
+        </Grid.ColumnDefinitions>
+     
+        <StackPanel>
+            <Label Content="Gospodarze:" Height="25" Width="200" Margin="0,25,0,0" />
+            <!--<TextBox x:Name="txtBox_Gosp" Height="20" Width="200"  Margin="0,5,0,0"/>-->
+            <ComboBox x:Name="cb_Gosp" Height="20" Width="200" Margin="0,5,0,0"/>
+            <Label Content="Bramki strzelone przez gospodarzy:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtBox_goleGosp" Height="20" Width="200" Margin="0,5,0,0"/>
+            <Label Content="Goście:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <ComboBox x:Name="cb_Goscie" Height="20" Width="200" Margin="0,5,0,0"/>
+            <!--<TextBox x:Name="txtBox_Gosc" Height="20" Width="200" Margin="0,5,0,0"/>-->
+            <Label Content="Bramki strzelone przez gości:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtBox_goleGosci" Height="20" Width="200" Margin="0,5,0,0"/>
+            <Label Content="Turniej:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <TextBox x:Name="txtBox_turniej" Height="20" Width="200" Margin="0,5,0,0"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1" HorizontalAlignment="Center">
+            <Label Content="Data:" Height="25" Width="200" Margin="0,25,0,0"/>
+            <Calendar x:Name="kalendarz" 
+                      Margin="0,25,0,0"
+                      Width="200"
+                      SelectionMode="SingleDate"
+                      SelectedDatesChanged="kalendarz_SelectedDatesChanged"/>
+            <StackPanel Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Center">
+                <Button Content="Zatwierdź" Height="20" Width="80" Click="btnZatwierdz_Click" Margin="0,50,20,0"/>
+                <Button Content="Anuluj" Height="20" Width="80" Click="btnAnuluj_Click" Margin="20,50,0,0"/>
+            </StackPanel>
+        </StackPanel>
+        
+        
+    </Grid>
+</Window>

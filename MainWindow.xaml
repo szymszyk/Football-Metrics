@@ -1,0 +1,20 @@
+﻿<Window x:Class="FootballMetrics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballMetrics"
+        mc:Ignorable="d"
+        Title="Football Metrics" Height="350" Width="350">
+    <Window.Background>
+        <ImageBrush ImageSource="/obrazy/tłoMainWindow.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    
+    <StackPanel Margin="10">
+            <Button x:Name="btn_stworzRanking" Content="Stwórz ranking" Margin="80,10,80,10" Click="btn_stworzRanking_Click"/>
+            <Button x:Name="btn_edytujDruzyny" Content="Edytuj drużyny" Margin="80,10,80,10" Click="btn_edytujDruzyny_Click"/>
+            <Button x:Name="btn_edytujMecze" Content="Edytuj mecze" Margin="80,10,80,10" Click="btn_edytujMecze_Click"/>
+            <Button x:Name="btn_wyjdz" Content="Wyjdź" Margin="50,120,50,10" Click="btn_wyjdz_Click"/>
+    </StackPanel>
+    
+</Window>

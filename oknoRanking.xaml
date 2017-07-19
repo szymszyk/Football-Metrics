@@ -1,0 +1,36 @@
+﻿<Window x:Class="FootballMetrics.oknoRanking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballMetrics"
+        mc:Ignorable="d"
+        Title="Ranking" Height="300" Width="600">
+    <Window.Background>
+        <ImageBrush ImageSource="obrazy/tło.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="300"/>
+        </Grid.ColumnDefinitions>
+        <ListView Margin="15" x:Name="Ranking">
+            <ListView.View>
+                <GridView AllowsColumnReorder="True">
+                    <GridViewColumn Header="Drużyna" Width="150" DisplayMemberBinding="{Binding nazwa}" />
+                    <GridViewColumn Header="Rating" Width="auto" DisplayMemberBinding="{Binding Rating}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Column="1">
+            <Label Content="Stwórz ranking na dzień:" Height="25" Width="200" Margin="0,10,0,0"/>
+            <Calendar x:Name="kalendarz" 
+                      Margin="0,25,0,0"
+                      Width="200"
+                      SelectionMode="SingleDate"
+                      SelectedDatesChanged="kalendarz_SelectedDatesChanged"/>
+            <Button x:Name="btnStworzRanking" Margin="5" Content="Stwórz" Width="100" Click="btnStworzRanking_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

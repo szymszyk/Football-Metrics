@@ -1,0 +1,41 @@
+﻿<Window x:Class="FootballMetrics.oknoMecze"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FootballMetrics"
+        mc:Ignorable="d"
+        Title="Mecze" Height="300" Width="700">
+    
+    <Window.Background>
+        <ImageBrush ImageSource="obrazy/tło.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    
+    <Grid>
+    <Grid.RowDefinitions>
+        <RowDefinition Height="*" />
+        <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+    <ListView Grid.Row="0" Margin="5" 
+                  x:Name="listaMeczy" ItemsSource="{Binding}" >
+        <ListView.View>
+            <GridView AllowsColumnReorder="True">
+                <GridViewColumn Header="ID" Width="Auto" DisplayMemberBinding="{Binding ID}" />
+                <GridViewColumn Header="Gospodarze" Width="Auto" DisplayMemberBinding="{Binding Nazwa_Gosp}" />
+                <GridViewColumn Header="Bramki gospodarzy" Width="Auto" DisplayMemberBinding="{Binding Gole_Gosp}" />
+                <GridViewColumn Header="Goście" Width="Auto" DisplayMemberBinding="{Binding Nazwa_Gosc}" />
+                <GridViewColumn Header="Bramki gości" Width="Auto" DisplayMemberBinding="{Binding Gole_Gosci}" />
+                <GridViewColumn Header="Data" Width="Auto" DisplayMemberBinding="{Binding Data,StringFormat={}{0:dd-MM-yyyy}}" />
+                <GridViewColumn Header="Turniej" Width="Auto" DisplayMemberBinding="{Binding Turniej}" />
+            </GridView>
+        </ListView.View>
+    </ListView>
+    <WrapPanel Grid.Row="1">
+        <Button x:Name="btnDodaj" Content="Dodaj" Margin="5" Click="btnDodaj_Click"/>
+        <Button x:Name="btnEdytuj" Content="Edytuj" Margin="5" Click="btnEdytuj_Click"/>
+        <Button x:Name="btnUsun" Content="Usuń" Margin="5" Click="btnUsun_Click"/>
+    </WrapPanel>
+
+
+    </Grid>
+</Window>
